@@ -1,0 +1,3 @@
+\contentsline {chapter}{فصل\nobreakspace {}\numberline {1}\nobreakspace {}\nobreakspace {}\nobreakspace {} چکیده}{1}{chapter.1}%
+\contentsline {chapter}{فصل\nobreakspace {}\numberline {2}\nobreakspace {}\nobreakspace {}\nobreakspace {} معماری O-RAN }{2}{chapter.2}%
+\contentsline {chapter}{مراجع}{6}{section*.5}%
